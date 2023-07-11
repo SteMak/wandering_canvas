@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+.placeholder {
+  margin-top: 10vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.game_canvas {
+  margin: auto;
+
+  height: 70vh;
+  width: 100%;
+
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+}
+
+.notice{
+  margin-top: 10px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
